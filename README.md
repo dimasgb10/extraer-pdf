@@ -45,6 +45,8 @@ Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo según los
 Puedes instalar las bibliotecas ejecutando:
 ```bash
 pip install pdfplumber pandas
+```
 
+# Muchas Gracias!!
 
 
