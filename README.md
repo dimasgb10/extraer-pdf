@@ -1,4 +1,5 @@
 Extraer PDF a Excel
+
 Este proyecto contiene un conjunto de herramientas para convertir estados bancarios en formato PDF a archivos Excel. Aunque el proceso no es 100% automatizado, permite realizar conversiones de manera semiautomática con los 5 archivos incluidos.
 
 Características
