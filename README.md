@@ -11,11 +11,7 @@ Este proyecto contiene un conjunto de herramientas para convertir estados bancar
 - **Python 3.x** instalado.
 - **Bibliotecas necesarias**: `pdfplumber`, `pandas` (u otras que estés utilizando).
 
-Puedes instalar las bibliotecas ejecutando:
-```bash
-pip install pdfplumber pandas
-
-# Instrucciones de uso
+# **Instrucciones de uso**
 
 1. Descargar los archivos: Clona o descarga este repositorio en tu máquina local.
   git clone https://github.com/dimasgb10/extraer-pdf.git
@@ -32,17 +28,23 @@ pip install pdfplumber pandas
 
 Generalmente este proceso no me demora mas de 10 minutos, y gracias a esto puedo tener el extracto bancario en EXCEL y poder generar tablas dinamicas y manipular la data mucho mejor que en el excel, ahorrandome mucho trabajo.
 
-
-# Personalización
+## **Personalización**
 Puedes modificar los scripts según tus necesidades para adaptarlos a otros tipos de documentos PDF o ajustar el formato de salida en Excel.
 
-# Limitaciones
-
-# El proceso aún requiere algunos pasos manuales para completar la conversión..
+## **Limitaciones**
+El proceso aún requiere algunos pasos manuales para completar la conversión..
 Solo compatible con archivos PDF que contienen tablas estructuradas de manera legible por el código.
 
-# Contribuciones
+## **Contribuciones**
 ¡Las contribuciones son bienvenidas! Si tienes sugerencias, mejoras o encuentras algún error, no dudes en abrir un issue o enviar un pull request.
 
-# Licencia
+## **Licencia**
 Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo según los términos de la licencia.
+
+
+Puedes instalar las bibliotecas ejecutando:
+```bash
+pip install pdfplumber pandas
+
+
+
